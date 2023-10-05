@@ -1,4 +1,4 @@
-# [XXX]
+# Hello world front-end
 
 .............
 
@@ -34,7 +34,11 @@
 
 
 
-# 📖  [XXXX]   <a name="about-project"></a>
+# 📖 Hello world front-end   <a name="about-project"></a>
+
+> A basic views that works as a front end to display random greetings.
+>
+> [Link to the FrontEnd App (hello-react-front-end).](https://github.com/enmanuelbayen/hello-rails-back-end/pull/1)
 
 
 ## 🛠 Built With <a name="built-with"></a>
@@ -92,7 +96,7 @@ Use these commands:
 
 ```sh
   cd my-folder
-  git clone xxxxx
+  git clone hello-react-front-end
 ```
 
 ### Install
@@ -112,14 +116,6 @@ Run command:
 To run the project, execute the following command:
 
 npm start
-
-### Run tests
-
-Work in progress.
-
-### Deployment
-
-I use Githud pages for the deployment of this web page.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
