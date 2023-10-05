@@ -38,7 +38,7 @@
 
 > A basic views that works as a front end to display random greetings.
 >
-> [Link to the FrontEnd App (hello-react-front-end).](https://github.com/enmanuelbayen/hello-rails-back-end/pull/1)
+> [Link to the BackEnd App (hello-react-front-end).](https://github.com/enmanuelbayen/hello-rails-back-end/pull/1)
 
 
 ## 🛠 Built With <a name="built-with"></a>
