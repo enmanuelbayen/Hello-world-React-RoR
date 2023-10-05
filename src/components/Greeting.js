@@ -12,7 +12,7 @@ const Greeting = () => {
 
   return (
     <>
-      <div className='app'>
+      <div className="app">
         <h1>Greeting: </h1>
         {randomGreeting.map((greeting) => (
           <div key={greeting.id}>
